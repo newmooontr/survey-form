@@ -1,0 +1,51 @@
+h1{
+    font-weight: 400px;
+    font-size: 75px;
+    line-height: 1.2px;
+    
+}
+
+p{
+    font-size: 1.5rem;
+    margin: 8px;
+}
+
+
+body{
+    font-family: comic-sns;
+    font-weight: 200px;
+    line-height: 1.5rem;
+   
+}
+
+input{
+    padding: 1px 2px;
+    text-align: start;
+    line-height: inherit;
+    margin: 0px;
+    border-width: 1px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+label{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    line-height: 2.0rem;
+}
+
+textarea{
+    border-width: 1px;
+    border-style: solid;
+    padding: 2px;
+    height: 66px;
+    width: 171px;
+    margin: 8px;
+}
+
+button{
+    border: none;
+    padding: 1px 6px;
+    line-height: inherit;
+}
